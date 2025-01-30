@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/igorkopka.co.uk/static/css/main.f40bf5c0.css",
-    "main.js": "/igorkopka.co.uk/static/js/main.4d4bce5a.js",
-    "index.html": "/igorkopka.co.uk/index.html",
-    "main.f40bf5c0.css.map": "/igorkopka.co.uk/static/css/main.f40bf5c0.css.map",
-    "main.4d4bce5a.js.map": "/igorkopka.co.uk/static/js/main.4d4bce5a.js.map"
+    "main.css": "/vvorx.github.io/static/css/main.f40bf5c0.css",
+    "main.js": "/vvorx.github.io/static/js/main.4d4bce5a.js",
+    "index.html": "/vvorx.github.io/index.html",
+    "main.f40bf5c0.css.map": "/vvorx.github.io/static/css/main.f40bf5c0.css.map",
+    "main.4d4bce5a.js.map": "/vvorx.github.io/static/js/main.4d4bce5a.js.map"
   },
   "entrypoints": [
     "static/css/main.f40bf5c0.css",
